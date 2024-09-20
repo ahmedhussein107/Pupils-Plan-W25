@@ -8,8 +8,8 @@ Join our problem-solving community on [Codeforces](https://codeforces.com/group/
 
 ## 📅 Weekly Schedule
 
-### Week 1: Programming Fundamentals / Basic Maths (14/9)
-- **Topics**: Algebra, Counting
+### Week 1: Programming Fundamentals (14/9)
+- **Topics**: Introduction to Problem Solving
 - [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/550146) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQCIhFOfvVcTXV8X826PTMOw)
 - [Additional Problems](https://codeforces.com/group/FcraNkfhvg/contest/550147) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQCIhFOfvVcTXV8X826PTMOw)
 
