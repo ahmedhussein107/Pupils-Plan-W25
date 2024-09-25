@@ -13,6 +13,9 @@ Join our problem-solving community on [Codeforces](https://codeforces.com/group/
 - [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/550146) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQCIhFOfvVcTXV8X826PTMOw)
 - [Additional Problems](https://codeforces.com/group/FcraNkfhvg/contest/550147) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQCIhFOfvVcTXV8X826PTMOw)
 
+### Week 2: Linear and Non-Linear DS (21/9)
+- **Topics**: Linear and Noo-Linear Data Structures
+	- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/551952) | [Solutions]()
 
 <!-- Uncomment the following sections as the weeks progress -->
 
