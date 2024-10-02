@@ -19,7 +19,7 @@ Join our problem-solving community on [Codeforces](https://codeforces.com/group/
 
 ### Week 3: Bit Manipulation / Bitmasks (28/9)
 - **Topics**: Bit Manipulation
-- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/554120) | [Solutions]()
+- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/554120) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQB4_yfNf8xikTLdOfo-JYkK)
 
 <!-- Uncomment the following sections as the weeks progress -->
 
