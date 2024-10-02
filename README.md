@@ -15,19 +15,15 @@ Join our problem-solving community on [Codeforces](https://codeforces.com/group/
 
 ### Week 2: Linear and Non-Linear DS (21/9)
 - **Topics**: Linear and Noo-Linear Data Structures
-	- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/551952) | [Solutions]()
+- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/551952) | [Solutions]()
+
+### Week 3: Bit Manipulation / Bitmasks (28/9)
+- **Topics**: Bit Manipulation
+- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/554120) | [Solutions]()
 
 <!-- Uncomment the following sections as the weeks progress -->
 
 <!--
-
-### Week 2: Learning STL / Collections Library / Monotonic Queue + Stack (21/9)
-- **Topics**: Next Min/Max using Stacks and Queues
-- Problem Set | Solutions
-
-### Week 3: Bit Manipulation / Bitmasks / Prefix XOR (28/9)
-- **Topics**: Building Masks, Prefix XOR
-- Problem Set | Solutions
 
 ### Week 4: Constructive / Greedy / Adhoc (5/10)
 - **Topics**: Greedy Algorithms and Adhoc Problem Solving
