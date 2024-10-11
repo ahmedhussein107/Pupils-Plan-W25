@@ -11,7 +11,7 @@ public class I {
         for (int i = 0; i < 60; i++, b >>= 1, c >>= 1, d >>= 1) {
             // take
             if ((1 - (c & 1)) == (d&1)){
-                a |= (1 << i);
+                a |= (1L << i);
                 continue;
             }
             // leave
