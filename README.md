@@ -21,6 +21,10 @@ Join our problem-solving community on [Codeforces](https://codeforces.com/group/
 - **Topics**: Bit Manipulation
 - [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/554120) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQB4_yfNf8xikTLdOfo-JYkK)
 
+### Week 7: Number Theory (28/9)
+- **Topics**: Primality Tests, Integer Factorizations, Euclid's Algorithm, Modular Arithmetic, Binary Exponentiation and Fermat's Little Theorem.
+- [Problem Set](https://codeforces.com/group/FcraNkfhvg/contest/559889) | [Solutions](https://www.youtube.com/playlist?list=PLc02D4EoVYQB5VxkhmwUha5XLLR09Pgc1)
+
 <!-- Uncomment the following sections as the weeks progress -->
 
 <!--
